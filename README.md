@@ -1,1 +1,1 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:0069e3&height=180&section=header&text=✨%20Bhinney%20✨&fontSize=32&animation=fadeIn&fontAlignY=36& fontColor=000000"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:e4e8ff,100:0080ff&height=180&section=header&text=Bhinney%20%F0%9F%91%8B&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
