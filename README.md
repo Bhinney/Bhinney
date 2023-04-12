@@ -11,4 +11,6 @@
 	<img src="https://img.shields.io/badge/JPA -89a8ff?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-89a8ff?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-89a8ff?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-89a8ff?style=flat&logo=Docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-89a8ff?style=flat&logo=Amazon&logoColor=white" />
 </div>
