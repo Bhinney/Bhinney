@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/Spring Boot-89a8ff?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Security-89a8ff?style=flat&logo=SpringSecurity&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring REST Docs-89a8ff?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA -89a8ff?style=flat&logo=Spring Boot&logoColor=white" />
+	<img src="https://img.shields.io/badge/JPA -89a8ff?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-89a8ff?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-89a8ff?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-89a8ff?style=flat&logo=Docker&logoColor=white" />
